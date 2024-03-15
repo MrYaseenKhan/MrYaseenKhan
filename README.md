@@ -2,7 +2,7 @@
 # Welcome to my GitHub Profile!
 
 ## Introduction
-Welcome to my development space! I'm Yaseen Khan, a dedicated developer with 2 years of experience in Flutter framework. While I'm relatively new to Django framework for backend development, I'm eager to expand my skills and contribute to exciting projects.
+Welcome to my development space! I'm Yaseen Khan, a dedicated developer with 3+ years of experience in Flutter framework. While I'm relatively new to Django framework for backend development, I'm eager to expand my skills and contribute to exciting projects.
 
 ## About Me ℹ️
 With a strong foundation in Flutter development, I specialize in crafting high-quality mobile applications with a focus on user experience and performance. My experience encompasses the entire development lifecycle, from conceptualization to deployment.
